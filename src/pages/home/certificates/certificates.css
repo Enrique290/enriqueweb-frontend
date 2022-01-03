@@ -1,18 +1,27 @@
 @import "../../../css/index.css";
 
+.certificates {
+  padding-bottom: 60px;
+}
+
 .certificates h1 {
   text-align: center;
   padding-top: 30px;
 }
 
-.certificates img {
-  width: 150px;
+.certificates .group-container {
   padding: 10px 0px;
+}
+
+.certificates img {
+  height: 90px;
+  padding: 20px 0px;
 }
 
 .certificates .certificate-item {
   display: flex;
   padding: 10px 0px;
+  align-items: center;
 }
 
 .certificates button {
@@ -25,4 +34,9 @@
 .certificates button:hover {
   background-color: var(--secondary-color);
   color: white;
+}
+
+.certificates h2 {
+  font-size: 22px;
+  margin: 0px;
 }

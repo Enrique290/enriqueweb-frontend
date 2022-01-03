@@ -22,7 +22,7 @@ function GroupCertificates() {
   return (
     <>
       {groups.map((group, index) => (
-        <div key={index}>
+        <div key={index} className="group-container">
           <img src={group.logo} alt="img" />
           <ul>
             {group.certificates.map((certificate, index) => (

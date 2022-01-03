@@ -1,10 +1,17 @@
 // Images
-import ciscoLogo from "../../../assets/img/certificates/cisco.jpg";
+import ciscoLogo from "../../../assets/img/certificates/cisco.png";
 import awsLogo from "../../../assets/img/certificates/aws.png";
 import udemyLogo from "../../../assets/img/certificates/udemy.png";
 
 // PDF
-import ciscoPDF from "../../../assets/pdf/homePage/cuirriculumECC.pdf";
+// Cisco
+import ciscoPDF1 from "../../../assets/pdf/certificates/CCNAv7 Introduction to Networks.pdf";
+import ciscoPDF2 from "../../../assets/pdf/certificates/CCNAv7 Switching, Routing, and Wireless Essentials.pdf";
+import ciscoPDF3 from "../../../assets/pdf/certificates/CCNAv7 Enterprise Networking, Security, and Automation.pdf";
+// AWS
+import aswPDF from "../../../assets/pdf/certificates/AWS Cloud Practitioner Essentials.pdf";
+// Udemy
+import udemyPDF1 from "../../../assets/pdf/certificates/Web Personal MERN Full Stack MongoDB, Express, React y Node.pdf";
 
 const groups = [
   {
@@ -12,16 +19,16 @@ const groups = [
     logo: ciscoLogo,
     certificates: [
       {
-        title: "Cisco 1",
-        pdf: ciscoPDF,
+        title: "CCNAv7: Introduction to Networks",
+        pdf: ciscoPDF1,
       },
       {
-        title: "Cisco 2",
-        pdf: ciscoPDF,
+        title: "CCNAv7: Switching, Routing, and Wireless Essentials",
+        pdf: ciscoPDF2,
       },
       {
-        title: "Cisco 3",
-        pdf: ciscoPDF,
+        title: "CCNAv7: Enterprise Networking, Security, and Automation",
+        pdf: ciscoPDF3,
       },
     ],
   },
@@ -30,8 +37,8 @@ const groups = [
     logo: awsLogo,
     certificates: [
       {
-        title: "Curso AWS",
-        pdf: ciscoPDF,
+        title: "AWS Cloud Practitioner Essentials",
+        pdf: aswPDF,
       },
     ],
   },
@@ -40,8 +47,8 @@ const groups = [
     logo: udemyLogo,
     certificates: [
       {
-        title: "Curso udemy",
-        pdf: ciscoPDF,
+        title: "Web Personal MERN Full Stack: MongoDB, Express, React y Node",
+        pdf: udemyPDF1,
       },
     ],
   },
