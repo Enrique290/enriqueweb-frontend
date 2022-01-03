@@ -17,7 +17,6 @@ export default function Studies() {
           <h2>Semester: Seventh</h2>
           <h2>School Timetable: 3:00 - 10:00 pm</h2>
         </div>
-        <div className="little-space"></div>
         <div>
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15052.342188968541!2d-99.1813074!3d19.4087094!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3108b5797f9c9ecd!2sUniversidad%20La%20Salle!5e0!3m2!1ses-419!2smx!4v1641069081572!5m2!1ses-419!2smx"

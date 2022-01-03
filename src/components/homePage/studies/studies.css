@@ -6,16 +6,12 @@
   border-bottom-style: solid;
   border-color: var(--background-grey-light);
 }
+
 .studies .studies-body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-}
-
-.studies .little-space {
-  padding-top: 30px;
-  width: 76px;
 }
 
 .studies h1 {
@@ -37,5 +33,6 @@
 }
 
 .studies iframe {
+  padding: 10px 50px;
   width: 100%;
 }

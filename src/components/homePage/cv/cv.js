@@ -1,6 +1,6 @@
 import React from "react";
 
-import CurriculumPDF from "../../../assets/pdf/homePage/cuirriculumECC.pdf";
+import CurriculumPDF from "../../../assets/pdf/homePage/curriculumECC.pdf";
 import "./cv.css";
 
 export default function CV() {
