@@ -1,0 +1,27 @@
+@import "../../../css/index.css";
+
+.socialLinks {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-linkedin {
+  background-color: var(--linkedin);
+  padding: 0px 5px;
+  margin-right: 8px;
+}
+
+.btn-linkedin i {
+  color: white;
+  font-size: 20px;
+}
+
+.btn-github {
+  background-color: black;
+  padding: 0px 5px;
+}
+
+.btn-github i {
+  color: white;
+  font-size: 20px;
+}

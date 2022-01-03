@@ -1,0 +1,36 @@
+@import "../../../css/index.css";
+
+.footer {
+  background-color: var(--background-dark);
+  color: white;
+  border-top-style: solid;
+  border-width: 4px;
+  border-color: var(--primary-color);
+}
+
+.footer div.col {
+  padding: 15px 10px;
+}
+
+.footer img {
+  width: 185px;
+}
+
+.footer .personal {
+  padding-top: 20px;
+}
+
+.footer .list-group-item {
+  background-color: var(--background-dark);
+  color: white;
+  outline: none;
+  text-decoration: none;
+}
+
+.footer .list-group-item:hover {
+  background-color: var(--primary-color);
+}
+
+.footer div.socialNetwork {
+  padding: 15px 0px;
+}

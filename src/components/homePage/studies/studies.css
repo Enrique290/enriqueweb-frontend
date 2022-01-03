@@ -1,0 +1,41 @@
+@import "../../../css/index.css";
+
+.studies {
+  padding: 60px 0px;
+  text-align: center;
+  border-bottom-style: solid;
+  border-color: var(--background-grey-light);
+}
+.studies .studies-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.studies .little-space {
+  padding-top: 30px;
+  width: 76px;
+}
+
+.studies h1 {
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.studies h2 {
+  font-size: 23px;
+  line-height: 1.2;
+}
+
+.studies img {
+  margin: 25px 0px;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.studies iframe {
+  width: 100%;
+}

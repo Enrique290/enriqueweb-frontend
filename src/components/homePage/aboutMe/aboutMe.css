@@ -1,0 +1,17 @@
+@import "../../../css/index.css";
+
+.aboutMe {
+  padding: 60px 0px;
+  text-align: center;
+  border-bottom-style: solid;
+  border-color: var(--background-grey-light);
+}
+
+.aboutMe h1 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.aboutMe h2 {
+  font-size: 23px;
+}

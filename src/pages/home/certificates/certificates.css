@@ -1,0 +1,28 @@
+@import "../../../css/index.css";
+
+.certificates h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.certificates img {
+  width: 150px;
+  padding: 10px 0px;
+}
+
+.certificates .certificate-item {
+  display: flex;
+  padding: 10px 0px;
+}
+
+.certificates button {
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 80px;
+  margin-right: 10px;
+}
+
+.certificates button:hover {
+  background-color: var(--secondary-color);
+  color: white;
+}
