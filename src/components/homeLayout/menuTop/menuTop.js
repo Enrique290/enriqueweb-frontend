@@ -33,12 +33,12 @@ export default function MenuTop() {
                 </a>
               </li>
               <li className="nav-item menuTop-item">
-                <a className="nav-link active" href="/#/contact">
+                <a className="nav-link active" href="/contact">
                   Contact
                 </a>
               </li>
               <li className="nav-item menuTop-item">
-                <a className="nav-link active" href="/#/certificates">
+                <a className="nav-link active" href="/certificates">
                   Certificates
                 </a>
               </li>

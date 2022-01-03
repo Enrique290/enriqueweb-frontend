@@ -26,11 +26,11 @@ export default function Footer() {
                 <i className="bi bi-house-fill"> </i>
                 Home
               </a>
-              <a className="list-group-item" href="/#/contact">
+              <a className="list-group-item" href="/contact">
                 <i className="bi bi-person-circle"> </i>
                 Contact
               </a>
-              <a className="list-group-item" href="/#/certificates">
+              <a className="list-group-item" href="/certificates">
                 <i className="bi bi-award"> </i>
                 Certificates
               </a>
