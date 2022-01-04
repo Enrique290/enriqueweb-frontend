@@ -1,4 +1,4 @@
-@import "../../../css/index.css";
+@import "../../../App.css";
 
 .menuTop {
   background-color: var(--primary-color);

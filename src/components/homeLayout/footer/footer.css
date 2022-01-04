@@ -1,4 +1,4 @@
-@import "../../../css/index.css";
+@import "../../../App.css";
 
 .footer {
   background-color: var(--background-dark);
