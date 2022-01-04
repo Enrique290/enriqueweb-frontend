@@ -7,7 +7,7 @@ export default function Knowledge() {
   return (
     <div className="knowledge container-xl">
       <h1>Knowledge</h1>
-      <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 row-cols-xl-6">
+      <div className="row row-cols-1 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 row-cols-xl-6">
         <Card />
       </div>
     </div>
