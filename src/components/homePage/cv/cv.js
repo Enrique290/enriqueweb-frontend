@@ -7,7 +7,7 @@ export default function CV() {
   return (
     <div className="cv container-xl">
       <h1>Curriculum Vitae PDF</h1>
-      <a href={CurriculumPDF} download="EnriqueCastilloCorona-CV.pdf">
+      <a href={CurriculumPDF} target="_blank">
         <button type="button" className="btn">
           <i className="bi bi-download"> </i>
           Download

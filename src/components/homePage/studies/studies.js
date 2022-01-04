@@ -13,8 +13,8 @@ export default function Studies() {
           <a target="_blank" href="https://lasalle.mx/">
             <img src={LaSalle} alt="La Salle Logo" />
           </a>
-          <h2>Carrer: Cybernetic and Computer Systems Engineer</h2>
-          <h2>Semester: Seventh</h2>
+          <h2>Career: Cybernetic and Computer Systems Enginnering</h2>
+          <h2>Semester: Eighth</h2>
           <h2>School Timetable: 3:00 - 10:00 pm</h2>
         </div>
         <div>
