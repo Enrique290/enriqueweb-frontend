@@ -3,13 +3,16 @@
 :root {
   --primary-color: #0074f8;
   --secondary-color: #005bbd;
+
   --background-light: #f7f7f7;
   --background-grey-light: #e8e8e8;
   --background-grey: #808080;
   --background-grey-dark: #595959;
   --background-dark: #161616;
+
   --success: #26c941;
   --error: #f00000;
+
   --youtube: #cd201f;
   --twitter: #1da1f2;
   --facebook: #3b5998;
