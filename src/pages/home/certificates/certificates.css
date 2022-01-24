@@ -24,14 +24,14 @@
   align-items: center;
 }
 
-.certificates button {
+.certificates a {
   background-color: var(--primary-color);
   color: white;
   border-radius: 80px;
   margin-right: 10px;
 }
 
-.certificates button:hover {
+.certificates a:hover {
   background-color: var(--secondary-color);
   color: white;
 }

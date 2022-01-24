@@ -17,7 +17,7 @@
 }
 
 .btn-github {
-  background-color: #000000;
+  background-color: var(--github);
   padding: 0px 5px;
 }
 

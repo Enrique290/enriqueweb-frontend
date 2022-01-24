@@ -1,7 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 
-import SocialNetworks from "../../../components/homeLayout/socialNetworks";
 import Avatar from "../../../assets/img/personal/cuphead.jpg";
 import Logo from "../../../assets/img/personal/personalLogo.png";
 import "./contact.css";
@@ -29,7 +28,17 @@ export default function Contact() {
               enriquecastillocorona@gmail.com
             </label>
 
-            <SocialNetworks className="socialNetworks" />
+            <div className="linkedin">
+              <a
+                href="https://www.linkedin.com/in/enrique-castillo-corona/"
+                target="_blank"
+              >
+                <label>
+                  <i className="bi bi-linkedin"> </i>
+                  /enrique-castillo-corona
+                </label>
+              </a>
+            </div>
           </div>
         </div>
       </div>

@@ -27,10 +27,13 @@ function GroupCertificates() {
           <ul>
             {group.certificates.map((certificate, index) => (
               <div key={index} className="certificate-item">
-                <a href={certificate.pdf} target="_blank">
-                  <button type="button" className="btn">
-                    <i className="bi bi-download" />
-                  </button>
+                <a
+                  className="btn"
+                  type="button"
+                  href={certificate.pdf}
+                  target="_blank"
+                >
+                  <i className="bi bi-download" />
                 </a>
                 <h2>{certificate.title}</h2>
               </div>
