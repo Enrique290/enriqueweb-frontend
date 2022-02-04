@@ -15,7 +15,7 @@ export default function Studies() {
           </a>
           <h2>Career: Cybernetic and Computer Systems Enginnering</h2>
           <h2>Semester: Eighth</h2>
-          <h2>School Timetable: 3:00 - 10:00 pm</h2>
+          <h2>School Timetable: 3:45 - 10:00 pm</h2>
         </div>
         <div>
           <iframe

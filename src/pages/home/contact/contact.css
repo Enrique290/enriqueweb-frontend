@@ -2,13 +2,13 @@
 
 .contact-title {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 40px;
 }
 
 .contact {
   display: flex;
   justify-content: center;
-  padding: 20px 0px 80px 0px;
+  padding: 20px 0px 60px 0px;
 }
 
 .contact .presentation-card {
@@ -28,7 +28,7 @@
 
 .contact .Avatar-img {
   height: 300px;
-  border-radius: 50px;
+  border-radius: 25px;
   padding: 10px;
 }
 
@@ -59,4 +59,26 @@
 .contact .linkedin a {
   text-decoration: none;
   color: #000;
+}
+
+.qr {
+  padding: 60px 0px 100px 0px;
+  text-align: center;
+  border-top-style: solid;
+  border-color: var(--background-grey-light);
+}
+
+.qr h1 {
+  margin: 0px;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 1;
+  padding-bottom: 40px;
+}
+
+.qr img {
+  padding: 0px 10px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
 }

@@ -1,8 +1,9 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 
-import Avatar from "../../../assets/img/personal/cuphead.jpg";
+import Avatar from "../../../assets/img/personal/profilePhoto.png";
 import Logo from "../../../assets/img/personal/personalLogo.png";
+import QR from "../../../assets/img/personal/QR.png";
 import "./contact.css";
 
 export default function Contact() {
@@ -41,6 +42,10 @@ export default function Contact() {
             </div>
           </div>
         </div>
+      </div>
+      <div className="qr container-xl">
+        <h1>Web QR</h1>
+        <img src={QR} alt="La Salle Logo" />
       </div>
     </>
   );

@@ -1,6 +1,6 @@
 import React from "react";
 
-import Avatar from "../../../assets/img/personal/cuphead.jpg";
+import Avatar from "../../../assets/img/personal/profilePhoto.png";
 import "./banner.css";
 
 export default function Banner() {
