@@ -10,9 +10,9 @@ export default function AboutMe() {
       </div>
       <div>
         <h2>
-          Compromised student with his professional and personal growth, to
-          develop new skills and offer my knowledge to others. Looking forward
-          to develop new skills and share knowledge with others.
+          Compromised student with his professional and personal growth to
+          develop new skills and offer technological and digital solutions to
+          any problem.
         </h2>
       </div>
     </div>

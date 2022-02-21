@@ -9,7 +9,7 @@ export default function experience() {
       <h1>Experience</h1>
       <div className="experience-card">
         <h2>Laboratorio de Cómputo de Ingeníeria La Salle - WEB Programmer</h2>
-        <h4>AUGUST 2021 - JANUARY 2022</h4>
+        <h4>AUGUST 2021 - FEBRUARY 2022</h4>
         <div className="card-exp-content">
           <a href="https://ingenieria.lasalle.mx/" target="_blank">
             <img src={laSalle} alt="img" />
