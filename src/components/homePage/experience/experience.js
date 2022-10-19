@@ -46,10 +46,6 @@ export default function experience() {
               MySQL, macOS, NetSuite (ORACLE), technical support, work with
               other areas
             </label>
-            <br />
-            <label>
-              <i class="bi bi-caret-right-fill"> </i>
-            </label>
           </div>
         </div>
       </div>
