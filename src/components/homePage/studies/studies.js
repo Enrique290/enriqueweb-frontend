@@ -14,8 +14,8 @@ export default function Studies() {
             <img src={LaSalle} alt="La Salle Logo" />
           </a>
           <h2>Career: Cybernetic and Computer Systems Enginnering</h2>
-          <h2>Semester: Eighth</h2>
-          <h2>School Timetable: 3:45 - 10:00 pm</h2>
+          <h2>Semester: Ninegth</h2>
+          <h2>Completion of studies: December 2022</h2>
         </div>
         <div>
           <iframe
