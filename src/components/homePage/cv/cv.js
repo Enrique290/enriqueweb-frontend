@@ -9,12 +9,12 @@ export default function CV() {
     <div className="cv container-xl">
       <h1>Curriculum Vitae PDF</h1>
       <div className="cv-body">
-        <a href={CurriculumPDFEN} target="_blank">
-          <button type="button" className="btn">
-            <i className="bi bi-download"> </i>
-            Download
-          </button>
-        </a>
+        {/* <a href={CurriculumPDFEN} target="_blank"> */}
+        <button type="button" className="btn" disabled>
+          <i className="bi bi-download"> </i>
+          Download
+        </button>
+        {/* </a> */}
         <br />
         <a href={CurriculumPDFES} target="_blank">
           <button type="button" className="btn">
