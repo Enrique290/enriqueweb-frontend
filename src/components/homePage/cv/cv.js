@@ -14,14 +14,6 @@ export default function CV() {
           <i className="bi bi-download"> </i>
           Download
         </button>
-        {/* </a> */}
-        <br />
-        <a href={CurriculumPDFES} target="_blank">
-          <button type="button" className="btn">
-            <i className="bi bi-download"> </i>
-            Descargar
-          </button>
-        </a>
       </div>
     </div>
   );
